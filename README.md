@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a freelancer<br>🤝 I’m looking for help with nest js and react native<br>🌱 I’m currently learning next js<br>💬 Ask me about anything
+
 
 
 ## 🌐 Socials:
